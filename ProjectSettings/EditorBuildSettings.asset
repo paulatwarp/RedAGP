@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus/Intro.unity
+    guid: 7e7d9aceb9b59134591209bf834bec1f
+  - enabled: 1
+    path: Assets/Scenes/Menus/Ttilescreen.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Menus/Main Menu.unity
+    guid: 651ace9f59ae7cb4699684247ff3abcc
+  - enabled: 1
+    path: Assets/Scenes/Storymode/Opening cutscene/Opening cutscene.unity
+    guid: be636ba937cc6cd4285f1d987e6327fd
+  - enabled: 1
+    path: Assets/Scenes/Storymode/Cyberspace Overworld/Overworld/Cyberspace.unity
+    guid: cfeca1783bd975e4494bbae062f624ce
+  - enabled: 1
+    path: Assets/Scenes/Storymode/Cyberspace Overworld/Fight/VsTitan.unity
+    guid: 114e936e37a4c0a41a70bdc421715cab
+  - enabled: 1
+    path: Assets/Scenes/Storymode/Cyberspace Overworld/Overworld/Winning.unity
+    guid: 0b31459f70c5b6248826259d15b0f41b
+  - enabled: 1
+    path: Assets/Scenes/Storymode/Cyberspace Overworld/Fight/Results.unity
+    guid: f3896489b01e6ca4abac042420988ab2
+  - enabled: 0
+    path: Assets/Scenes/Menus/CSS.unity
+    guid: 77ed1b88dd78b024f89f5f74b3b1842b
+  - enabled: 1
+    path: Assets/Scenes/Menus/Stage S.unity
+    guid: 42f7f991944cfb645b6fcb66602755a3
+  - enabled: 1
+    path: Assets/Scenes/Storymode/Cyberspace Overworld/Fight/CyberspaceFight.unity
+    guid: dcd9446017352734c9855c5ca8ef9071
+  - enabled: 1
+    path: Assets/Scenes/Bossrush/Dojo stage.unity
+    guid: 6aced2c3107ac79429b4ae014d77a804
+  - enabled: 1
+    path: Assets/Scenes/Bossrush/Tempest.unity
+    guid: 7403d26c60326054c9bcabcfbf58fc3a
+  - enabled: 1
+    path: Assets/Scenes/Gallery/Gallery Main Menu.unity
+    guid: be43e2d8f0aeb3b4dba2081766e63aed
+  - enabled: 1
+    path: Assets/Scenes/Gallery/CHARACTERS.unity
+    guid: fc04d8d51ea6ab64c8077bb82bfe0061
+  - enabled: 1
+    path: Assets/Scenes/Gallery/R-100 Gallery.unity
+    guid: 38bfae10f23935640a4c6070a837f414
+  - enabled: 1
+    path: Assets/Scenes/Gallery/BlueGallery.unity
+    guid: 5d499f248ff2fd74fa34fc4dd0ce68d5
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c754a01ca9d56f748877a9ea68d0cf47,
+      type: 2}
